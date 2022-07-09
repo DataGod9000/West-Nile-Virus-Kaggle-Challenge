@@ -1,4 +1,4 @@
-![Banner Photo](https://github.com/Aspiring-DataGod9000/West-Nile-Virus-Kaggle-Challenge/blob/main/west-nile-banner-photo.jpg)
+![west-nile-banner-photo](https://user-images.githubusercontent.com/102948566/178111304-3915d911-e343-4455-b4c1-8513154b06a6.jpg)
 
 A data-driven approach against West Nile Virus in Chicago
 

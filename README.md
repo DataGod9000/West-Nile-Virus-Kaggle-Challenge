@@ -1,4 +1,4 @@
-![west-nile-banner-photo](https://user-images.githubusercontent.com/102948566/178111304-3915d911-e343-4455-b4c1-8513154b06a6.jpg)
+![west-nile-banner-photo](https://user-images.githubusercontent.com/102948566/178111361-2b6d6477-64e2-4af4-bba8-4527466a2def.jpg)
 
 A data-driven approach against West Nile Virus in Chicago
 

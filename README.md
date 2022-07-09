@@ -1,5 +1,5 @@
 
-# Project 4:  A data-driven approach against West Nile Virus in Chicago
+A data-driven approach against West Nile Virus in Chicago
 
 
 This project aims to develop the a machine learning model that can accurately predict the presence of West Nile Virus (WNV) in various locations in Chicago. 
